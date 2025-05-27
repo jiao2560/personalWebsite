@@ -22,13 +22,13 @@ export default function Home() {
 {/* Main Content */}
 <div className="text-section">
 <div className="intro-box">
-  <h1>Hello, I'm Wenbo Jiao (Leo)<span>👋</span></h1>
+  <h1>Hello, II'mapos;m Wenbo Jiao (Leo)<span>👋</span></h1>
   <p>
-    I'm a versatile software engineer with hands-on experience across backend systems, cloud
+    II'mapos;m a versatile software engineer with hands-on experience across backend systems, cloud
     infrastructure, and frontend frameworks. I&apos;ve contributed to both product development and low-latency trading systems, spanning startups and research labs in North America and Asia.
   </p>
   <p>
-    With years of academic and professional experience in the U.S. and Canada, I’m fluent in English
+    With years of academic and professional experience in the U.S. and Canada, I’apos;m fluent in English
     and comfortable collaborating across time zones, cultures, and technical disciplines. My work
     spans cloud-native architectures, distributed systems, and decentralized applications, with
     contributions deployed in production at scale.
@@ -236,7 +236,7 @@ export default function Home() {
   <ul className="project-bullets">
     <li>
       Built RESTful backend services in Python with FastAPI to power ingestion, processing, and
-      metadata management for the company’s blockchain educational and marketing videos.
+      metadata management for the company’apos;s blockchain educational and marketing videos.
     </li>
     <li>
       Automated GCP infrastructure using Terraform for scalable multi-environment deployments (Dev,
@@ -492,7 +492,7 @@ export default function Home() {
             <div className="life-intro">
               <h2>Life Outside Work</h2>
               <p>
-                Beyond coding, I’ve spent time exploring the U.S. during my five years studying
+                Beyond coding, I’apos;ve spent time exploring the U.S. during my five years studying
                 abroad — from the Midwest to the West Coast. Traveling helped me recharge and
                 broaden my view of culture, people, and life in America.
               </p>
