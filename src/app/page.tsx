@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import Link from "next/link";
 import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
 import "./globals.css";
@@ -26,8 +25,7 @@ export default function Home() {
   <h1>Hello, I'm Wenbo Jiao (Leo)<span>👋</span></h1>
   <p>
     I'm a versatile software engineer with hands-on experience across backend systems, cloud
-    infrastructure, and frontend frameworks. I’ve contributed to both product development and
-    low-latency trading systems, spanning startups and research labs in North America and Asia.
+    infrastructure, and frontend frameworks. I&apos;ve contributed to both product development and low-latency trading systems, spanning startups and research labs in North America and Asia.
   </p>
   <p>
     With years of academic and professional experience in the U.S. and Canada, I’m fluent in English
