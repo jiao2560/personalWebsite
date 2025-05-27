@@ -194,7 +194,7 @@ export default function Home() {
   <div className="intern-header">
     <img src="/orange.jpg" alt="Orange Logo" className="intern-logo" />
     <div>
-      <p className="intern-role">Software Engineer Intern</p>
+      <p className="intern-role">Blockchain Software Engineer Intern</p>
       <p className="intern-date">May 2024 – Dec 2024 • Toronto, Canada</p>
     </div>
   </div>
