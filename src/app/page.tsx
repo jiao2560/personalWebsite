@@ -22,7 +22,7 @@ export default function Home() {
 {/* Main Content */}
 <div className="text-section">
 <div className="intro-box">
-  <h1>Hello, II'mapos;m Wenbo Jiao (Leo)<span>👋</span></h1>
+  <h1>Hello, I'm Wenbo Jiao (Leo)<span>👋</span></h1>
   <p>
     II'mapos;m a versatile software engineer with hands-on experience across backend systems, cloud
     infrastructure, and frontend frameworks. I&apos;ve contributed to both product development and low-latency trading systems, spanning startups and research labs in North America and Asia.
